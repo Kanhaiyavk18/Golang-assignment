@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+ // function for sorting array using selction sort
+
 func Selection_Sort(array[] int, size int) []int {
     var min_index int
     var temp int
