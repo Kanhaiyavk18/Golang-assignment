@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-/* Print pattern using loop:
+/* Print pattern:
 1 
 2 6 
 3 7 10 
