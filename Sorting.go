@@ -22,7 +22,7 @@ func Selection_Sort(array[] int, size int) []int {
 }
 
 func main() {
-    var num = 7
-    array := []int{2,4,3,1,6,8,5}
+    var num = 10
+    array := []int{2,4,3,7,9,10,1,6,8,5}
     fmt.Println(Selection_Sort(array, num))
 }
