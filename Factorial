@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// Calculate factorial using recursion
+
 func factorial(n int) int {
 	if n == 0 {
 		return 1
